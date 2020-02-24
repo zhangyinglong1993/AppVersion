@@ -1,0 +1,9 @@
+{
+    "app_id":"com.webjuiceszyl04.mp3.downloader",
+    "app_id_new":"com.webjuiceszyl04.mp3.downloader",
+    "version_code":2,
+    "version_name":"1.0",
+    "desc":"Please give me a five-star rating？",
+    "is_force":false,
+    "download_domain":"https://d.mp3-music-downloads.com/"
+}
