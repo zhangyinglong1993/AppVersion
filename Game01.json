@@ -1,9 +1,9 @@
 
 {
     "app_id":"com.newjuiceszyl01.mp3.downloader",
-    "app_id_new":"com.newjuiceszyl01.mp3.downloader",
-    "version_code":1,
-    "version_name":"1.0",
-    "desc":"这是一个版本控制工具,推荐一个新的MP3 Downloader,很好用啊 啊啊啊",
+    "app_id_new":"com.ertyyinglong2.mp3.mp3_downloader",
+    "version_code":4,
+    "version_name":"4.0",
+    "desc":"(AD) New: MP3 Downloader For Mp3Juice & Free Music Download",
     "is_force":false
 }
