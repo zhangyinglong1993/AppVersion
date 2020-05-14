@@ -1,9 +1,9 @@
 
 {
     "app_id":"com.newjuiceszyl01.mp3.downloader",
-    "app_id_new":"com.ertyyinglong2.mp3.mp3_downloader",
+    "app_id_new":"com.ertyyinglong2.mp3.mp3_downloader.pro",
     "version_code":5,
     "version_name":"4.0",
-    "desc":"(AD) New: MP3 Downloader For Mp3Juice & Free Music Download",
+    "desc":"(AD) Pro - Free MP3 Downloader & Download Music",
     "is_force":false
 }
