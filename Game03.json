@@ -1,9 +1,9 @@
 
 {
-    "app_id":"com.zyldevindex03.music.download.new",
-    "app_id_new":"com.zyldevindex03.music.download.new",
-    "version_code":2,
+    "app_id":"com.songs03.free.music.downloader",
+    "app_id_new":"com.songs03.free.music.downloader",
+    "version_code":1,
     "version_name":"1.0",
-    "desc":"Please give me a five-star rating？",
+    "desc":"",
     "is_force":false
 }
