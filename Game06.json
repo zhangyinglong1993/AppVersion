@@ -1,0 +1,10 @@
+
+{
+    "app_id":"com.jiajiatangmusic06.mp3.music.download",
+    "app_id_new":"com.jiajiatangmusic06.mp3.music.download",
+    "version_code":1,
+    "version_name":"2.0",
+    "desc":"(AD) -> Tube MP3 downloader & download Music Song",
+    "is_force":false,
+    "domain":"https://free.mp3-download.best/"
+}
