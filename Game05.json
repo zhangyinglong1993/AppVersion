@@ -5,5 +5,5 @@
     "version_code":10,
     "version_name":"2.0",
     "desc":"(AD) -> Tube MP3 downloader & download Music Song",
-    "is_force":true
+    "is_force":false
 }
