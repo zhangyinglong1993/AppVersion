@@ -1,9 +1,9 @@
 
 {
     "app_id":"com.newjuiceszyl01.mp3.downloader",
-    "app_id_new":"com.newjuiceszyl02.mp3.downloader",
+    "app_id_new":"com.yinlongzz08.music.downloader",
     "version_code":100,
     "version_name":"1.0",
-    "desc":"(AD) New App,Fix Download -> MP3 Music Downloader & Free Song Download",
+    "desc":"(AD) New App,Fix Download -> Free Music Downloader & Download MP3 Songs",
     "is_force":false
 }
