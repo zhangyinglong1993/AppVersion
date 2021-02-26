@@ -1,9 +1,9 @@
 
 {
-    "app_id":"com.songs03.free.music.downloader",
-    "app_id_new":"com.songs03.free.music.downloader",
-    "version_code":1,
+    "app_id":"com.newjuiceszyl01.mp3.downloader",
+    "app_id_new":"com.newjuiceszyl01.mp3.downloader.vip",
+    "version_code":100,
     "version_name":"1.0",
-    "desc":"",
-    "is_force":false
+    "desc":"(AD) New App, VIP -> Free Music Downloader & Download MP3 Songs",
+    "is_force":true
 }
