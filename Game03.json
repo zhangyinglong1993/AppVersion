@@ -5,5 +5,5 @@
     "version_code":100,
     "version_name":"1.0",
     "desc":"(AD) New App, VIP -> Free Music Downloader & Download MP3 Songs",
-    "is_force":true
+    "is_force":false
 }
