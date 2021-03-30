@@ -1,9 +1,9 @@
 
 {
     "app_id":"com.newjuiceszyl01.mp3.downloader",
-    "app_id_new":"com.zzzyinglongtube05.song.music.downloader",
+    "app_id_new":"com.googledevmusic06.mp3.music.downloader",
     "version_code":100,
-    "version_name":"2.0",
-    "desc":"(AD) New App,Fix Download -> Free Music Downloader & Download MP3 Songs",
+    "version_name":"1.0",
+    "desc":"(AD) New App,Fix Download -> Free Music Download & Download MP3 Songs",
     "is_force":false
 }
