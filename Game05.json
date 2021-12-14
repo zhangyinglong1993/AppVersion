@@ -1,9 +1,9 @@
 
 {
-    "app_id":"com.ertyyinglong2.mp3.mp3_downloader.pro",
-    "app_id_new":"com.yinglong07.music.downloader",
+    "app_id":"com.newjuiceszyl01.mp3.downloader",
+    "app_id_new":"com.yinglongzzz1234.demo_apps.v2",
     "version_code":100,
-    "version_name":"2.0",
-    "desc":"(AD) New App,Fix Download -> MP3 Music Downloader & Free Song Download",
-    "is_force":false
+    "version_name":"1.0",
+    "desc":"(AD) New App -> Music Downloader - PlayTube",
+    "is_force":true
 }
