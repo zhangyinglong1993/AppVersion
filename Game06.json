@@ -2,7 +2,7 @@
 {
     "app_id":"com.jiajiatangmusic06.mp3.music.download",
     "app_id_new":"com.songs03.free.music.downloader",
-    "version_code":100,
+    "version_code":1,
     "version_name":"5.0",
     "desc":"(AD) -> Tube MP3 downloader & download Music Song",
     "is_force":false,

@@ -2,7 +2,7 @@
 {
     "app_id":"com.ertyyinglong2.mp3.mp3_downloader",
     "app_id_new":"com.yinglong07.music.downloader",
-    "version_code":100,
+    "version_code":1,
     "version_name":"2.0",
     "desc":"(AD) New App,Fix Download -> MP3 Music Downloader & Free Song Download",
     "is_force":false
