@@ -1,9 +1,9 @@
 {
     "app_id":"com.newjuiceszyl01.mp3.downloader",
-    "app_id_new":"com.zzyinglongtube55.music.downloader",
+    "app_id_new":"com.jiajiatangdownloader01.video.downloader.all",
     "version_code":100,
     "version_name":"1.0",
-    "desc":"(AD) New App -> Music Downloader MP3 Download",
+    "desc":"(AD) New App -> MP4 Video Downloader MP3 Music",
     "is_force":false,
     "is_ad":true
 }
